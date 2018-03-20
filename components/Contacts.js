@@ -9,7 +9,7 @@ var Contacts = React.createClass({
     });
 
     return (
-      <ul className={'contactsList'}>
+      <ul className='contactsList'>
         {Contacts}
       </ul>
     );
