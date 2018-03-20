@@ -19,4 +19,4 @@ var Contact = React.createClass({
       </div>
       )
     },
-  });
+});
